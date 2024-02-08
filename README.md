@@ -1,3 +1,7 @@
+Notes on Ryan Hipple's Talk at Unite 2017 
+
+https://www.youtube.com/watch?v=raQ3iHhE_Kk
+
 # Engineering Pillars
 
 ## Modular
