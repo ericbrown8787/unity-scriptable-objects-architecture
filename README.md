@@ -129,6 +129,11 @@ https://www.youtube.com/watch?v=raQ3iHhE_Kk
 
 
 # Questions:
+
+- Scriptable objects seem useful, especially for high level game management classes like the ones used in the Gibson-Bond lessons(Which were all monobehaviors, and that edition of the book might actually predate scriptable objects). Are there any situations where it's better to use a monobehavior for that purpose?
+
+- What make monobehavior singletons practically different from scriptable objects, other it not being possible to instantiate them? In particular, I'm not exactly sure how they're less modular than scriptable objects.
+
 - What is dependency injection? Is it just a system for passing object references? Where might have we used it in Unity?
 
 - What situations are enums best suited for? When should I not use them? Ryan Hipple mentions enums existing in a set order, but I've never actually needed to refer to an enum by an index before, so I'm not sure what situations being able to do that would be useful in. 
@@ -137,4 +142,4 @@ https://www.youtube.com/watch?v=raQ3iHhE_Kk
 # Test Bed Repo:
 https://github.com/ericbrown8787/unity-scriptable-objects-architecture
 
-Not much here yet, but I'd like to try working with some of the classes he described. 
+Not much here yet, but I'd like to try working with some of the classes he described. I understand the general concepts, but I'm used to working with event systems that have already been implemented. 
